@@ -1,4 +1,4 @@
-# ₹10K in X Stocks — 10 Updated Hinglish Voiceover Scripts
+# ₹10K in X Stocks — 10 
 
 ---
 
