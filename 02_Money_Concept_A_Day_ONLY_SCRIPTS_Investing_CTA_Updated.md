@@ -1,59 +1,110 @@
-# Money Concept a Day — 10 Scripts
-
-## 01. Pehli salary ka ₹30,000 challenge
-
-Maan lo Riya ki pehli salary ₹25,000 hai. Salary aate hi usko lagta hai ki sab kharchon ke baad jo bachega, woh save kar legi. Lekin mahine ke end mein kuch bachta hi nahi. Is baar Riya ne ulta kiya. Salary milte hi 10 percent alag rakh liya. Ab ₹25,000 ka 10 percent nikalo, toh ₹2,500 hue. Ye har mahine karti rahi, toh ₹2,500 ko 12 se multiply karo. Saal ke end mein ₹30,000! Bina kisi investment return ke. Tumhari salary aaye, toh sabse pehle kitna alag rakhoge? Comment karo. Aur aage shares mein invest karne ka socho, toh Trackk par companies research karke invest bhi kar sakte ho.
-
----
-
-## 02. ₹500 SIP ka 5-year experiment
-
-Socho, Kabir roz café se kuch khareed leta hai. Ek din usne socha, har mahine ₹500 alag rakh kar dekhta hoon. Pehle hisaab karo. ₹500 ko 12 mahino se multiply karo, toh ek saal mein ₹6,000. Paanch saal mein uske apne ₹30,000 lagenge. Ab maan lo SIP ko saalana 12 percent return mile, monthly compounding ke hisaab se. Paanch saal baad value kareeb ₹40,800 ho sakti hai. Yaani lagbhag ₹10,800 ki growth. Lekin 12 percent sirf assumed hai, guarantee nahi; value kam bhi ho sakti hai. Tum ₹500 start karoge ya ₹1,000? Comment karo. Dono ka projection Trackk ke SIP calculator par compare kar sakte ho. Aur jab stocks mein invest karne ka decision lo, toh Trackk par companies research karke shares mein invest bhi kar sakte ho.
+# Money Concept a Day: 10 
+Built on the client feedback of 2026-11-14:
+- Story must flow, no breaks. Character first (who, where, how much they earn), then the problem.
+- Less maths on the voice: ONE main calculation per episode, said like a story beat, not a lecture.
+- Every hook is a different type (dialogue, nostalgia, mystery, POV, "kitni baar suna hai", etc.).
+- Everyday Hinglish, English words welcome (total, interest, salary, rent, plan). No heavy Hindi.
+- Assumed returns are said as "maan lo" only (no "guarantee nahi" line, see CLAUDE.md section 9 open item).
+- Trackk only at the end as a real tool (SIP / FD / CAGR calculators, Trackk Score, IPO Verdicts).
+Target 38 to 48 s each (about 95 to 115 words).
 
 ---
 
-## 03. Inflation: same ₹100, less shopping
+## Ep01 Pehli salary | hook type: mystery
+**Hook:** Har mahine ki 30 tareekh ko Riya ka account zero kyun ho jaata tha?
 
-Maan lo Meera ke paas ₹100 hain aur usse woh apni favourite snacks ki chhoti shopping kar leti hai. Ab imagine karo, yehi ₹100 usne drawer mein 10 saal rakh diye. Paisa toh ₹100 hi rahega, lekin prices badh sakti hain. Agar inflation har saal 6 percent maan lein, toh aaj ke ₹100 jitni cheez khareedne ke liye 10 saal baad lagbhag ₹179 chahiye honge. Aur jo ₹100 drawer mein pade hain, unki aaj ki purchasing power mein value kareeb ₹56 ke barabar hogi. Isliye sirf rupee amount nahi, usse kya khareed sakte ho, woh bhi matter karta hai. Tum apni favourite cheez ka badhta price notice karte ho? Comment karo. Apne paison ki growth plan karne ke liye Trackk ke calculators explore kar sakte ho. Aur jab shares mein invest karna ho, toh Trackk par company research karke invest bhi kar sakte ho.
+**VO:** Riya Pune mein ek design agency mein junior designer hai. Pehli salary, ₹25,000. Salary aate hi online shopping, weekend outings, Swiggy... aur mahine ke end tak kuch nahi bachta. Phir uski senior ne ek simple trick batayi: "Salary aate hi pehle apne liye 10% side mein rakho, baaki mein mahina chalao." Riya ne har mahine ₹2,500 auto-transfer set kar diya. Pehle do mahine thoda tight laga, phir aadat ban gayi. Saal ke end mein uske paas ₹30,000 the. Koi return nahi, bas ek habit. Tum kis team mein ho: "pehle save" ya "end mein jo bache"? Aur ye saving invest karke kitni grow ho sakti hai, Trackk ke SIP calculator pe dekh sakte ho.
 
----
-
-## 04. Emergency fund ka actual target
-
-Socho, Aarav ka mahine ka total zaroori kharcha ₹12,000 hai. Rent, khana, travel, sab milakar. Ab achanak uski internship khatam ho jaaye, toh? Isi liye emergency fund banta hai. Chalo calculate karte hain. Teen mahine ka safety buffer chahiye, toh ₹12,000 into 3, matlab ₹36,000. Aur chhe mahine ka buffer chahiye, toh ₹12,000 into 6, yaani ₹72,000. Har kisi ka target same nahi hota, kyunki kharche alag hote hain. Ye paisa aasani se access hone wali jagah rakhna hota hai, risky shares mein nahi. Ab batao, tumhare zaroori monthly expenses kitne hain? Comment karo. Emergency fund alag aur accessible rakho. Uske baad agar shares mein invest karna ho, toh Trackk par stocks research karke invest bhi kar sakte ho.
+**Visual beats:** salary SMS ping -> shopping bags fly out of wallet -> "30 tareekh: ₹0" -> senior's speech bubble -> 12 jars fill with ₹2,500 each -> ₹30,000 jar -> SIP calculator capture.
 
 ---
 
-## 05. Compounding: profit par profit
+## Ep02 ₹500 SIP | hook type: POV
+**Hook:** POV: ek cold coffee kam piyo, aur 5 saal baad ₹40,000 ke paas pahuncho.
 
-Jab Nisha ne ₹1,000 save kiye, usko laga 10 percent return ka matlab har saal bas ₹100 milenge. Lekin compounding ka maths thoda interesting hai. Maan lo pehle saal 10 percent mila, toh ₹1,000 ban gaye ₹1,100. Doosre saal 10 percent original ₹1,000 par nahi, poore ₹1,100 par lagega. Ab amount hua ₹1,210. Teesre saal wahi calculation karo, toh ₹1,331. Dekha, har saal base bhi badhta gaya. Lekin ye fixed 10 percent sirf example hai, market mein guarantee nahi. Tumhara goal teen saal ka hai ya das saal ka? Comment karo. Apne assumptions badal kar Trackk ke calculator par hisaab dekh sakte ho. Aur shares mein invest karne se pehle Trackk par unki research bhi kar sakte ho.
+**VO:** Kabir Bangalore mein engineering ka student hai. Roz canteen ki ₹150 wali cold coffee uska favourite habit hai. Ek din usne socha, "Mahine mein sirf teen-chaar coffee kam karun, toh ₹500 bach jaayenge." Usne har mahine ₹500 ki SIP start kar di. Paanch saal mein usne apne total ₹30,000 daale. Ab agar 12% saalana return maan lo, toh ye lagbhag ₹41,000 ban sakta hai. Matlab coffee ke paise se ₹11,000 extra. Number market ke hisaab se upar-neeche ho sakta hai, par habit wahi rehti hai. Tum kaunsi ek cheez chhod ke ₹500 bacha sakte ho? Mujhe bhi idea do. Apna amount daalke Trackk ke SIP calculator pe khud dekho.
 
----
-
-## 06. ₹25K salary ka 50/30/20 budget
-
-Maan lo Aditya ko ₹25,000 ki first salary mili. Usne socha rent bhi dena hai, phone bill bhi, outing bhi karni hai aur kuch bachana bhi hai. Toh ek starting framework try karte hain, 50-30-20. ₹25,000 ka 50 percent, yaani ₹12,500 essential needs ke liye. 30 percent, yaani ₹7,500 wants ke liye. Aur 20 percent, matlab ₹5,000 savings aur financial goals ke liye. Lekin agar tumhara rent hi ₹15,000 hai, toh yeh exact rule tumhare liye fit nahi hoga. Rule ka kaam guilt dena nahi, starting point dena hai. Tumhare budget mein sabse zyada paisa kis cheez par jaata hai? Comment karo. Savings aur zaroori kharche manage karne ke baad shares mein invest karna chaho, toh Trackk par research karke invest bhi kar sakte ho.
+**Visual beats:** coffee cup -> cup splits into coins -> ₹500 drops into a jar every month (60 ticks fast) -> invested bar ₹30,000 vs grown bar ~₹41,000 (label "12% maan lo") -> SIP calculator capture.
+**Number note:** Trackk's SIP calculator shows ~₹41,243 for ₹500, 12%, 5 yrs, so the VO says "lagbhag ₹41,000".
 
 ---
 
-## 07. Phone EMI ka hidden total
+## Ep03 Inflation | hook type: nostalgia
+**Hook:** School mein ₹100 mein poore group ki canteen party ho jaati thi. Aaj?
 
-Maan lo Arjun ko phone chahiye, aur shop wala bolta hai bas ₹3,000 per month. Sunne mein manageable lagta hai na? Lekin Arjun calculator kholta hai. ₹3,000 ko 12 se multiply kiya, toh total payments ₹36,000. Ab maan lo wahi phone cash mein ₹30,000 ka mil raha tha. Difference nikalo, ₹36,000 minus ₹30,000. Pure ₹6,000. Ye example hai—real EMI mein down payment, interest aur extra charges alag ho sakte hain. Isi liye sirf monthly EMI nahi, total payable aur cash price saath compare karo. Tumne kabhi EMI ka total nikala hai? Comment karo. Bache hue paison ke long-term goals Trackk ke calculators par explore kar sakte ho. Aur shares mein invest karne ka plan ho, toh pehle research karke Trackk par invest bhi kar sakte ho.
+**VO:** Meera ab Delhi mein HR intern hai. Ghar saaf karte hue usko purane school bag mein ₹100 ka note mila. Usne socha, chalo isse wahi canteen wali party karte hain. Par aaj ₹100 mein do samose aur ek cold drink bhi mushkil se aate hain. Yahi hai inflation: cheezein har saal thodi mehngi hoti jaati hain. Agar mehngai 6% saal maan lo, toh aaj jo cheez ₹100 ki hai, 10 saal baad lagbhag ₹179 ki hogi. Matlab drawer mein pada paisa chupke se chhota hota jaata hai. Isliye paisa sirf rakhna kaafi nahi, usko grow karna bhi important hai. Tumhari favourite cheez ka price kitna badha hai? Number ke saath batao. FD aur SIP ka fark Trackk ke calculators pe compare kar sakte ho.
 
----
-
-## 08. Diversification: saara ₹10K ek jagah?
-
-Maan lo Sameer ne poore ₹10,000 ek hi company mein invest kiye. Ab woh stock 40 percent gir gaya. Toh ₹10,000 ka 40 percent, yaani ₹4,000 ka loss. Bache sirf ₹6,000. Ab socho, usne ₹10,000 ko paanch alag shares mein ₹2,000–₹2,000 baanta hota. Agar unmein se sirf ek share 40 percent girta, aur baaki four shares ki prices bilkul same rehti, toh us ek hisse ka loss ₹800 hota. Total value ₹9,200. Lekin real market mein kai stocks saath bhi gir sakte hain. Diversification risk ko kam karne mein madad karta hai, loss ko khatam nahi. Tum ek share chunoge ya spread karoge? Comment karo. Alag-alag stocks ko samajhne ke liye Trackk Score dekh sakte ho. Aur apni research ke baad Trackk par shares mein invest bhi kar sakte ho.
+**Visual beats:** old school bag, ₹100 note -> canteen tray full (then) vs half-empty tray (now) -> price tag counter ₹100 -> ₹179 over 10 calendar flips -> note shrinks -> calculators capture.
 
 ---
 
-## 09. Rule of 72: paisa double kab?
+## Ep04 Emergency fund | hook type: bad-news moment
+**Hook:** Ek email aaya, aur Arnav ka next month ka rent khatre mein tha.
 
-Maan lo Priya ne ₹10,000 invest kiye aur usko samajhna hai ki ye double hone mein kitna time le sakte hain. Ek quick mental trick hai Rule of 72. Agar tum 9 percent saalana return assume karo, toh 72 ko 9 se divide karo. Answer aata hai 8 years. Matlab aise return par paisa roughly 8 saal mein double ho sakta hai. Actual compound formula se time lagbhag 8.04 saal aata hai. Par ek baat yaad rakhna, 9 percent sirf assumption hai; market ka return fixed nahi hota. Tum kis assumed return par calculate karoge, 6 ya 9 percent? Comment karo. Different scenarios Trackk ke calculators par compare kar sakte ho. Aur jab shares mein invest karne ka faisla karo, toh Trackk par stock research karke invest bhi kar sakte ho.
+**VO:** Arnav Gurgaon ki ek startup mein intern hai, jahan use mahine ke ₹15,000 milte hain. Jismein se ₹12,000 woh rent, khana aur travel jaise zaroori kharchon mein laga deta hai. Sab theek chal raha tha, jab tak HR ka mail nahi aaya: "Your internship will not be extended." Ab next month ka rent kahan se aayega? Isi din ke liye hota hai emergency fund. Kam se kam teen mahine ka kharcha, matlab ₹36,000, side mein ho. Aur chhe mahine ka ho, toh aur bhi safe. Ye paisa aisi jagah rakho jahan turant mil jaaye, risky shares mein nahi. Tumhara emergency fund kitne mahine chalega? Bas ek number: 0, 3 ya 6? Fund ready hone ke baad, apni investing plan Trackk ke calculators pe banao.
+
+**Visual beats:** office desk, salary ₹15,000 -> three envelopes Rent / Food / Travel take ₹12,000 -> laptop email pops "not extended" -> cat shocked -> shield jar fills 3 months ₹36,000 -> 6-month ring -> calculators capture.
 
 ---
 
-## 10. IPO lot ka actual budget
+## Ep05 Compounding | hook type: dialogue
+**Hook:** "Paise ko kaam pe lagao." Nisha ke papa ki ye line uski samajh mein nahi aati thi.
 
-Socho, Ishaan ke paas investing ke liye ₹10,000 hain. Ek IPO usko interesting lagta hai, kyunki price likhi hai ₹120 per share. Usne socha, affordable hai. Lekin application mein minimum lot bhi hota hai. Maan lo us IPO ka lot size 100 shares hai. Toh ₹120 into 100 karoge, minimum application amount ₹12,000. Ishaan ke ₹10,000 se woh lot apply hi nahi kar sakta. Aur application karne se allotment milna bhi pakka nahi hota. Isliye IPO mein sirf per-share price nahi, lot size aur company ki details bhi check karo. Tum sabse pehle kya dekhoge, price ya lot? Comment karo. IPO ko samajhne ke liye Trackk ke IPO Verdicts explore kar sakte ho. Aur listed shares mein invest karna chaho, toh Trackk par research karke invest bhi kar sakte ho.
+**VO:** Nisha Indore mein college ke second year mein hai. Birthday pe usko ₹1,000 mile, aur papa ne bola, "Inko kharch mat karo, kaam pe lagao." Nisha ne invest kiye, aur maan lo har saal 10% return mila. Pehle saal ₹1,000 ban gaye ₹1,100. Ab twist: doosre saal 10% sirf ₹1,000 pe nahi, poore ₹1,100 pe laga. Toh ₹1,210. Teesre saal ₹1,331. Matlab profit pe bhi profit milne laga. Shuru mein chhota lagta hai, par 20 saal mein yahi chhota sa fark bahut bada ban jaata hai. Yahi hai compounding, paisa kaam pe. Aur woh dost jo har paisa turant kharch kar deta hai, usko ye video bhej do. Apne numbers Trackk ke calculators pe try karo.
+
+**Visual beats:** birthday card with ₹1,000 -> papa's speech bubble -> coin pile grows 1,100 / 1,210 / 1,331 with "+profit on profit" arrows -> long timeline 20 yrs, pile becomes a hill -> calculators capture.
+
+---
+
+## Ep06 50/30/20 | hook type: "where did it go"
+**Hook:** Salary aayi, aur 10 din mein aadhi gayab. Gayi kahan?
+
+**VO:** Aditya Hyderabad mein ek IT company mein fresher hai, salary ₹25,000. Pehle hi hafte mein rent, phone bill, dost ke saath trips... aur salary ka aadha hissa khatam. Tab uske roommate ne ek simple formula bataya: 50, 30, 20. Aadhi salary, yaani ₹12,500, zaroori cheezon ke liye: rent, khana, bills. 30%, yaani ₹7,500, apne shauk ke liye. Aur 20%, matlab ₹5,000, saving ke liye. Agar tumhara rent hi zyada hai, toh ratio thoda adjust karo. Ye rule sirf ek starting point hai, koi punishment nahi. Tumhari salary ka sabse bada kharcha kya hai: rent, food ya shopping? Aur us 20% saving ka plan Trackk ke SIP calculator pe banao.
+
+**Visual beats:** salary credited -> calendar day 10, wallet half empty -> roommate bubble "50-30-20" -> ₹25,000 note splits into three envelopes NEEDS / WANTS / SAVINGS -> rent envelope grows, ratio slider adjusts -> SIP calculator capture.
+
+---
+
+## Ep07 Phone EMI | hook type: "kitni baar suna hai"
+**Hook:** "Bhaiya, bas ₹3,000 mahine ka." Ye line kitni baar suni hai?
+
+**VO:** Arjun Jaipur mein ek call center mein kaam karta hai. Uska phone gir ke toot gaya, toh woh seedha mobile shop gaya. Salesman ne smile ke saath bola, "Bas ₹3,000 per month, 12 months." Sounds easy, right? Arjun ne apne purane phone ka calculator khola. ₹3,000 twelve times... ₹36,000. Aur wahi phone cash mein ₹30,000 ka tha. Matlab ₹6,000 extra, sirf monthly option ke liye. Ye bas ek example hai, real EMI mein interest, processing fee aur down payment bhi hote hain. Isliye next time, monthly amount nahi, total amount dekho. EMI ya cash, tum kaunse wale ho? Apne money goals ka plan Trackk ke calculators pe kar sakte ho.
+
+**Visual beats:** cracked phone -> shop awning, salesman bubble "Bas ₹3,000/month!" -> old phone calculator, 12 bills stack -> ₹36,000 vs cash tag ₹30,000 -> red "+₹6,000 extra" -> EMI terms receipt (interest, processing fee, down payment) -> MONTHLY vs TOTAL -> calculators capture.
+
+---
+
+## Ep08 Diversification | hook type: shock
+**Hook:** Sameer ke ₹10,000 ek hi raat mein ₹6,000 kaise ban gaye?
+
+**VO:** Sameer Mumbai mein graphic designer hai. Ek dost ne bola, "Ye company bahut upar jaayegi," aur Sameer ne apne poore ₹10,000 usi ek company ke shares mein laga diye. Kuch din baad us company ki bad news aayi, aur share 40% gir gaya. Sameer ke paas bache sirf ₹6,000. Ab socho, agar usne ₹2,000-₹2,000 paanch alag companies mein lagaye hote, aur sirf wahi ek giri hoti, baaki same rehti, toh loss sirf ₹800 hota. Total ₹9,200. Paise ko alag jagah baantna loss ko khatam nahi karta, par ek galti ka asar kam kar deta hai. Aur woh dost jo har "sure-shot tip" pe paisa laga deta hai, usko tag karo. Kisi company ko samajhne ke liye Trackk Score dekh sakte ho.
+
+**Visual beats:** friend's chat bubble "100% upar jaayega" -> all coins into ONE basket -> news flash, basket drops, ₹6,000 left -> five baskets ₹2,000 each, only one tips, ₹9,200 stays -> Trackk Score capture (real screen only, else logo sign-off).
+
+---
+
+## Ep09 Rule of 72 | hook type: trick
+**Hook:** Ek 10-second trick, jo batati hai ki tumhara paisa kab double hoga.
+
+**VO:** Priya Chennai mein school teacher hai. Usne mehnat se ₹10,000 bachaye, aur papa ne poocha, "Ye double kab honge?" Priya ke paas jawab nahi tha. Tab usne Rule of 72 seekha. Simple hai: 72 ko apne yearly return se divide karo. Agar 9% saal maan lo, toh 72 divided by 9, matlab lagbhag 8 saal. Aur 6% pe? 12 saal. Pen-paper bhi nahi chahiye. Ye ek quick estimate hai, exact answer nahi, par planning ke liye kaafi kaam ka hai. Ab Priya ke paas papa ke liye jawab tha. Ye trick save kar lo, next time kaam aayegi. Aur exact numbers Trackk ke CAGR calculator pe nikaal sakte ho.
+
+**Visual beats:** classroom chalkboard, papa's question bubble -> chalk writes 72 ÷ 9 = 8 -> coin doubles after 8 calendar flips -> 72 ÷ 6 = 12 side note -> CAGR calculator capture.
+
+---
+
+## Ep10 IPO lot | hook type: confusion
+**Hook:** ₹120 ka share, ₹10,000 pocket mein. Phir bhi Ishaan IPO mein apply nahi kar paaya. Kyun?
+
+**VO:** Ishaan Kolkata mein BCom final year mein hai. Instagram pe ek IPO ka ad dekha: price sirf ₹120 per share. Usne socha, "Easy hai, ₹10,000 toh hain mere paas." Par apply karte waqt pata chala, IPO mein ek-do share nahi, minimum ek lot lena padta hai. Maan lo lot 100 shares ka hai, toh ₹120 into 100, yaani ₹12,000. Ishaan ke ₹10,000 kam pad gaye. Aur ek baat: apply karne se shares milna pakka nahi hota. Isliye IPO mein sirf price nahi, lot size aur company ke baare mein bhi pehle padho. Tumne kabhi IPO apply kiya hai? Mila ya nahi mila? Trackk ke IPO Verdicts bhi check kar sakte ho.
+
+**Visual beats:** Instagram ad card "₹120/share" -> wallet ₹10,000 -> "MIN LOT 100" stamp drops -> ₹120 × 100 = ₹12,000 > ₹10,000, wallet short -> "allotment not guaranteed" lottery card -> IPO Verdicts capture.
+
+---
+
+## Ending variety (no "Comment karo" anywhere)
+Rule: never say "Comment karo". Use a question people want to answer, or a share / tag / save line. Rotate the type:
+Ep01 team pick, Ep02 ask for ideas, Ep03 number answer, Ep04 one-number poll, Ep05 share with a friend, Ep06 three-option pick, Ep07 either/or identity, Ep08 tag a friend, Ep09 save it, Ep10 personal experience.
+On screen, show the options as flat pills (no glass) when the question has options.
+
+## Hook variety check
+mystery / POV / nostalgia / bad-news moment / dialogue / "where did it go" / "kitni baar suna hai" / shock / trick / confusion. No two episodes open the same way.
