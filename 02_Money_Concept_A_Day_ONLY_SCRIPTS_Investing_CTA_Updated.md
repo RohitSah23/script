@@ -1,14 +1,4 @@
 # Money Concept a Day: 10 
-Built on the client feedback of 2026-11-14:
-- Story must flow, no breaks. Character first (who, where, how much they earn), then the problem.
-- Less maths on the voice: ONE main calculation per episode, said like a story beat, not a lecture.
-- Every hook is a different type (dialogue, nostalgia, mystery, POV, "kitni baar suna hai", etc.).
-- Everyday Hinglish, English words welcome (total, interest, salary, rent, plan). No heavy Hindi.
-- Assumed returns are said as "maan lo" only (no "guarantee nahi" line, see CLAUDE.md section 9 open item).
-- Trackk only at the end as a real tool (SIP / FD / CAGR calculators, Trackk Score, IPO Verdicts).
-Target 38 to 48 s each (about 95 to 115 words).
-
----
 
 ## Ep01 Pehli salary | hook type: mystery
 **Hook:** Har mahine ki 30 tareekh ko Riya ka account zero kyun ho jaata tha?
