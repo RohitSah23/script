@@ -1,179 +1,161 @@
-# ₹10K in X Stocks — 10 Scripts
-
-## 01. Reliance (2005 → 2015 → 2025)
-
-Kya tum 20 saal tak ek stock ko chhod paate?
-
-Socho, 2005 ke aakhir mein tumne Reliance mein ₹10,000 lagaye hote. Bonus aur splits adjust karke us waqt ek share ka comparable price lagbhag ₹80.97 tha.
-
-Ab ₹10,000 ko ₹80.97 se divide karo. Aaj ke share structure mein ye lagbhag 123.5 share-equivalent units bante.
-
-2015 mein adjusted price ₹227.26 hui. Wahi investment? Kareeb ₹28,067.
-
-2008 mein market ke tez girne par bahut log ghabra jaate.
-
-2025 ke end mein adjusted price ₹1,570.40 thi. Matlab portfolio lagbhag ₹1,93,948, aur price-only profit kareeb ₹1,83,948!
-
-Jab 2008 mein market gira tha, tum bechte ya hold karte? Comment karo. Aur research ke baad shares mein invest karna ho toh Trackk app se bhi kar sakte ho.
+# ₹10K in X Stocks — 10 Updated Hinglish Voiceover Scripts
 
 ---
 
-## 02. TCS (2005 → 2015 → 2025)
+## 01. Reliance (2005–2025)
 
-Ek IT company ke ₹10,000 bees saal mein kitne ban sakte the?
+"Agar aaj se bees saal pehle Reliance mein ₹10,000 laga diye hote, toh ek bike ke paise bante ya usse bhi zyada?
 
-Socho, 2005 ke aakhir mein tumne TCS mein ₹10,000 lagaye hote. Bonus aur splits adjust karke us waqt ek share ka comparable price lagbhag ₹212.86 tha.
+Maan lo tumne 2005 ke end mein Reliance mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹80.97 tha. Toh ₹10,000 divide by ₹80.97 — kareeb 123.5 aaj ke share-equivalent units.
 
-Ab ₹10,000 ko ₹212.86 se divide karo. Aaj ke share structure mein ye lagbhag 47.0 share-equivalent units bante.
+2008 mein market buri tarah gira tha. Us waqt portfolio dekhkar ghabrana bilkul normal hota.
 
-2015 mein adjusted price ₹1,218.43 hui. Wahi investment? Kareeb ₹57,241.
+2025 ke end mein comparable share price lagbhag ₹1,570.40 thi. Ab 123.5 ko ₹1,570.40 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹193,948. Yaani price ke hisaab se ₹183,948 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
 
-2008 ki market girawat ke baad bhi kahani wahin nahi ruki.
+Sach batao, itni girawat dekhkar tum hold kar paate?
 
-2025 ke end mein adjusted price ₹3,206.20 thi. Matlab portfolio lagbhag ₹1,50,625, aur price-only profit kareeb ₹1,40,625!
-
-Tum 2008 ki girawat mein sell karte ya wait? Comment karo. Aur research ke baad shares mein invest karna ho toh Trackk app se bhi kar sakte ho.
+Aaj khud shares mein invest karna chaho, toh company research karke Trackk app par invest bhi kar sakte ho."
 
 ---
 
-## 03. Infosys (2005 → 2015 → 2025)
+## 02. TCS (2015–2025)
 
-Infosys ke ₹10,000 ko 20 saal diye hote, kitna banta?
+"2015 mein naya phone lene ke bajay ₹10,000 TCS mein laga diye hote toh?
 
-Socho, 2005 ke aakhir mein tumne Infosys mein ₹10,000 lagaye hote. Bonus aur splits adjust karke us waqt ek share ka comparable price lagbhag ₹187.31 tha.
+Maan lo tumne 2015 ke end mein TCS mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹1,218.43 tha. Toh ₹10,000 divide by ₹1,218.43 — kareeb 8.2 aaj ke share-equivalent units.
 
-Ab ₹10,000 ko ₹187.31 se divide karo. Aaj ke share structure mein ye lagbhag 53.4 share-equivalent units bante.
+IT business ka naam sunke growth pakki nahi ho jaati. Beech ke saalon mein price upar bhi gaya aur neeche bhi.
 
-2015 mein adjusted price ₹552.70 hui. Wahi investment? Kareeb ₹29,507.
+2025 ke end mein comparable share price lagbhag ₹3,206.20 thi. Ab 8.2 ko ₹3,206.20 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹26,314. Yaani price ke hisaab se ₹16,314 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
 
-Beech mein IT stocks ke ups and downs aaye; line kabhi seedhi nahi chali.
+Waise, aap already stocks mein invest karte ho, ya abhi seekh rahe ho?
 
-2025 ke end mein adjusted price ₹1,615.40 thi. Matlab portfolio lagbhag ₹86,242, aur price-only profit kareeb ₹76,242!
-
-Tum patience rakhte ya pehle profit par exit kar lete? Comment karo. Aur research ke baad shares mein invest karna ho toh Trackk app se bhi kar sakte ho.
+Shares explore karne ke liye Trackk par companies dekh sakte ho, aur apni research ke baad invest bhi kar sakte ho."
 
 ---
 
-## 04. HDFC Bank (2005 → 2015 → 2025)
+## 03. Infosys (2005–2015)
 
-2005 ke bank share mein ₹10,000 daalte, toh 2025 mein kitne hote?
+"Socho, college ki fees ke alawa bache ₹10,000 Infosys mein 2005 mein laga diye hote—2015 tak kitna hota?
 
-Socho, 2005 ke aakhir mein tumne HDFC Bank mein ₹10,000 lagaye hote. Bonus aur splits adjust karke us waqt ek share ka comparable price lagbhag ₹35.44 tha.
+Maan lo tumne 2005 ke end mein Infosys mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹187.31 tha. Toh ₹10,000 divide by ₹187.31 — kareeb 53.4 aaj ke share-equivalent units.
 
-Ab ₹10,000 ko ₹35.44 se divide karo. Aaj ke share structure mein ye lagbhag 282.2 share-equivalent units bante.
+Yeh sirf IT company ki kahani nahi, dus saal tak decision ko na chhedne ki bhi kahani hai.
 
-2015 mein adjusted price ₹270.54 hui. Wahi investment? Kareeb ₹76,337.
+2015 ke end mein comparable share price lagbhag ₹552.70 thi. Ab 53.4 ko ₹552.70 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹29,507. Yaani price ke hisaab se ₹19,507 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
 
-Log badalte rahe, economy badalti rahi, lekin return ki journey seedhi nahi thi.
+Tumhara investment horizon kya hai—ek saal, paanch saal ya das saal?
 
-2025 ke end mein adjusted price ₹991.20 thi. Matlab portfolio lagbhag ₹2,79,684, aur price-only profit kareeb ₹2,69,684!
-
-Tum itna lamba hold karte ya beech mein nikaal lete? Comment karo. Aur research ke baad shares mein invest karna ho toh Trackk app se bhi kar sakte ho.
+Agar investing shuru karni hai toh pehle stock samjho; Trackk app par research aur shares mein investing dono kar sakte ho."
 
 ---
 
-## 05. ICICI Bank (2005 → 2015 → 2025)
+## 04. HDFC Bank (2015–2025)
 
-ICICI Bank ka ₹10,000 2015 mein kitna aur 2025 mein kitna hota?
+"₹10,000 ko 2015 mein HDFC Bank mein lagaya hota, toh 2025 mein bank balance kitna dikhta?
 
-Socho, 2005 ke aakhir mein tumne ICICI Bank mein ₹10,000 lagaye hote. Bonus aur splits adjust karke us waqt ek share ka comparable price lagbhag ₹106.37 tha.
+Maan lo tumne 2015 ke end mein HDFC Bank mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹270.54 tha. Toh ₹10,000 divide by ₹270.54 — kareeb 37.0 aaj ke share-equivalent units.
 
-Ab ₹10,000 ko ₹106.37 se divide karo. Aaj ke share structure mein ye lagbhag 94.0 share-equivalent units bante.
+Sirf bada bank hona return ki guarantee nahi. Share ki value economy aur company ke results ke saath badalti hai.
 
-2015 mein adjusted price ₹237.59 hui. Wahi investment? Kareeb ₹22,336.
+2025 ke end mein comparable share price lagbhag ₹991.20 thi. Ab 37.0 ko ₹991.20 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹36,638. Yaani price ke hisaab se ₹26,638 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
 
-2015 ki value dekhkar lagta ki paisa dheere badha; aage ka chapter alag nikla.
+Kya aap banks ke shares mein invest karna pasand karoge?
 
-2025 ke end mein adjusted price ₹1,342.90 thi. Matlab portfolio lagbhag ₹1,26,248, aur price-only profit kareeb ₹1,16,248!
-
-2015 mein tum profit book karte ya das saal aur rakhte? Comment karo. Aur research ke baad shares mein invest karna ho toh Trackk app se bhi kar sakte ho.
+Trackk par stock details samajhkar apne decision se investment kar sakte ho."
 
 ---
 
-## 06. ITC (2005 → 2015 → 2025)
+## 05. ICICI Bank (2005–2025)
 
-ITC ke ₹10,000 ka 20 saal ka hisaab sunoge?
+"2005 mein ICICI Bank ke naam par ₹10,000 invest karne ki himmat hoti?
 
-Socho, 2005 ke aakhir mein tumne ITC mein ₹10,000 lagaye hote. Bonus aur splits adjust karke us waqt ek share ka comparable price lagbhag ₹44.56 tha.
+Maan lo tumne 2005 ke end mein ICICI Bank mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹106.37 tha. Toh ₹10,000 divide by ₹106.37 — kareeb 94.0 aaj ke share-equivalent units.
 
-Ab ₹10,000 ko ₹44.56 se divide karo. Aaj ke share structure mein ye lagbhag 224.4 share-equivalent units bante.
+Beech mein financial crisis bhi aaya. Yaani final number bada lagta hai, par us tak ka safar bilkul smooth nahi tha.
 
-2015 mein adjusted price ₹206.73 hui. Wahi investment? Kareeb ₹46,394.
+2025 ke end mein comparable share price lagbhag ₹1,342.90 thi. Ab 94.0 ko ₹1,342.90 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹126,248. Yaani price ke hisaab se ₹116,248 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
 
-Is story mein ek aur cheez hai—dividends; hamare screen ke calculation mein woh shamil nahi.
+Aise investment mein aapko sabse zyada darr kis baat ka lagta hai—loss ya galat timing?
 
-2025 ke end mein adjusted price ₹403.00 thi. Matlab portfolio lagbhag ₹90,440, aur price-only profit kareeb ₹80,440!
-
-Tumhe price growth pasand hai ya dividend income? Comment karo. Aur research ke baad shares mein invest karna ho toh Trackk app se bhi kar sakte ho.
+Aaj stocks mein invest karna ho toh pehle research karo; Trackk par shares mein invest karne ka option bhi hai."
 
 ---
 
-## 07. Bharti Airtel (2005 → 2015 → 2025)
+## 06. ITC (2015–2025)
 
-Airtel mein ₹10,000 lagaye hote, toh 10 saal baad kitne? Aur 20 saal baad?
+"ITC jaise familiar naam mein ₹10,000 lagate, toh das saal baad paisa double hota?
 
-Socho, 2005 ke aakhir mein tumne Bharti Airtel mein ₹10,000 lagaye hote. Bonus aur splits adjust karke us waqt ek share ka comparable price lagbhag ₹158.62 tha.
+Maan lo tumne 2015 ke end mein ITC mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹206.73 tha. Toh ₹10,000 divide by ₹206.73 — kareeb 48.4 aaj ke share-equivalent units.
 
-Ab ₹10,000 ko ₹158.62 se divide karo. Aaj ke share structure mein ye lagbhag 63.0 share-equivalent units bante.
+Is company ke case mein ek aur cheez important hai—dividends. Aaj jo calculation kar rahe hain, usmein dividend income add nahi hai.
 
-2015 mein adjusted price ₹312.55 hui. Wahi investment? Kareeb ₹19,704.
+2025 ke end mein comparable share price lagbhag ₹403.00 thi. Ab 48.4 ko ₹403.00 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹19,494. Yaani price ke hisaab se ₹9,494 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
 
-2015 ka number dekhke shayad tumhe lage ki ab kaafi hai; phir decade badla.
+Aap price growth dekhte ho ya dividends bhi important lagte hain?
 
-2025 ke end mein adjusted price ₹2,105.60 thi. Matlab portfolio lagbhag ₹1,32,745, aur price-only profit kareeb ₹1,22,745!
-
-2015 mein bechte ya 2025 tak hold karte? Comment karo. Aur research ke baad shares mein invest karna ho toh Trackk app se bhi kar sakte ho.
+Trackk par investing se pehle company ki details explore kar sakte ho, phir apna decision le sakte ho."
 
 ---
 
-## 08. Hindustan Unilever (2005 → 2015 → 2025)
+## 07. Bharti Airtel (2015–2025)
 
-Roz use hone wale products ki company mein ₹10,000 lagana kaisa hota?
+"2015 mein ₹10,000 ka naya smartphone liya hota, ya wahi paisa Airtel ke shares mein lagaya hota?
 
-Socho, 2005 ke aakhir mein tumne Hindustan Unilever mein ₹10,000 lagaye hote. Bonus aur splits adjust karke us waqt ek share ka comparable price lagbhag ₹193.98 tha.
+Maan lo tumne 2015 ke end mein Bharti Airtel mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹312.55 tha. Toh ₹10,000 divide by ₹312.55 — kareeb 32.0 aaj ke share-equivalent units.
 
-Ab ₹10,000 ko ₹193.98 se divide karo. Aaj ke share structure mein ye lagbhag 51.6 share-equivalent units bante.
+Phone purana ho jaata, lekin stock investment ki kahani alag chalti. Haan, market mein girawat ka risk hamesha tha.
 
-2015 mein adjusted price ₹848.66 hui. Wahi investment? Kareeb ₹43,750.
+2025 ke end mein comparable share price lagbhag ₹2,105.60 thi. Ab 32.0 ko ₹2,105.60 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹67,368. Yaani price ke hisaab se ₹57,368 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
 
-Jo brands har din dikhte hain, unke share ki journey bhi utar-chadhav wali hoti hai.
+Tumhare hisaab se phone zaroori hai ya long-term investing ke liye bhi budget hona chahiye?
 
-2025 ke end mein adjusted price ₹2,315.90 thi. Matlab portfolio lagbhag ₹1,19,389, aur price-only profit kareeb ₹1,09,389!
-
-Tum daily-use brand mein invest karne se pehle kya check karte? Comment karo. Aur research ke baad shares mein invest karna ho toh Trackk app se bhi kar sakte ho.
+Aaj se stock investing explore karni ho, toh Trackk app par shares khareedne ka option hai—research karna mat bhoolna."
 
 ---
 
-## 09. Larsen & Toubro (2005 → 2015 → 2025)
+## 08. Hindustan Unilever (2005–2015)
 
-Jo company bade projects banati hai, uske ₹10,000 ka kya hua hota?
+"Roz shampoo aur soap khareedte ho. Kabhi socha inhe banane wali company mein ₹10,000 lagate toh kya hota?
 
-Socho, 2005 ke aakhir mein tumne Larsen & Toubro mein ₹10,000 lagaye hote. Bonus aur splits adjust karke us waqt ek share ka comparable price lagbhag ₹205.02 tha.
+Maan lo tumne 2005 ke end mein Hindustan Unilever mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹193.98 tha. Toh ₹10,000 divide by ₹193.98 — kareeb 51.6 aaj ke share-equivalent units.
 
-Ab ₹10,000 ko ₹205.02 se divide karo. Aaj ke share structure mein ye lagbhag 48.8 share-equivalent units bante.
+Product hum roz dekhte hain, par company ka share lena aur product lena alag baat hai. Business, valuation aur risks sab dekhne padte hain.
 
-2015 mein adjusted price ₹850.30 hui. Wahi investment? Kareeb ₹41,474.
+2015 ke end mein comparable share price lagbhag ₹848.66 thi. Ab 51.6 ko ₹848.66 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹43,750. Yaani price ke hisaab se ₹33,750 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
 
-2008 jaisa crash beech mein aata, toh graph dekhna mushkil lag sakta tha.
+Kya aap kisi aise brand mein invest karte ho jo khud roz use karte ho?
 
-2025 ke end mein adjusted price ₹4,083.50 thi. Matlab portfolio lagbhag ₹1,99,176, aur price-only profit kareeb ₹1,89,176!
-
-Crash ke waqt tum rukte ya bechte? Comment karo. Aur research ke baad shares mein invest karna ho toh Trackk app se bhi kar sakte ho.
+Aise stocks ko Trackk par research karke, samajh aaye toh shares mein invest kar sakte ho."
 
 ---
 
-## 10. Wipro (2005 → 2015 → 2025)
+## 09. Larsen & Toubro (2005–2025)
 
-Wipro mein ₹10,000 lagakar 2015 mein nikal jaate toh kya miss hota?
+"Jo company bade bridges aur projects banati hai, usmein ₹10,000 lagate toh 20 saal baad kya banta?
 
-Socho, 2005 ke aakhir mein tumne Wipro mein ₹10,000 lagaye hote. Bonus aur splits adjust karke us waqt ek share ka comparable price lagbhag ₹52.13 tha.
+Maan lo tumne 2005 ke end mein Larsen & Toubro mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹205.02 tha. Toh ₹10,000 divide by ₹205.02 — kareeb 48.8 aaj ke share-equivalent units.
 
-Ab ₹10,000 ko ₹52.13 se divide karo. Aaj ke share structure mein ye lagbhag 191.8 share-equivalent units bante.
+Projects ko complete hone mein saal lagte hain. Shareholder ko bhi beech ke market crashes jhelne pad sakte hain.
 
-2015 mein adjusted price ₹104.98 hui. Wahi investment? Kareeb ₹20,138.
+2025 ke end mein comparable share price lagbhag ₹4,083.50 thi. Ab 48.8 ko ₹4,083.50 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹199,176. Yaani price ke hisaab se ₹189,176 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
 
-IT stocks ki growth ek seedhi line nahi hai; bonus bhi share count badalte rahe.
+Kya tum ₹10,000 ko itne lambe time tak untouched rakh paate?
 
-2025 ke end mein adjusted price ₹263.28 thi. Matlab portfolio lagbhag ₹50,505, aur price-only profit kareeb ₹40,505!
+Trackk app par aisi companies ko research karna aur apne hisaab se shares mein invest karna possible hai."
 
-Tum 2015 mein exit karte ya aur 10 saal rakhte? Comment karo. Aur research ke baad shares mein invest karna ho toh Trackk app se bhi kar sakte ho.
+---
+
+## 10. Wipro (2015–2025)
+
+"2015 mein Wipro mein ₹10,000 daalte, toh 2025 mein kya sach mein paisa bahut badhta?
+
+Maan lo tumne 2015 ke end mein Wipro mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹104.98 tha. Toh ₹10,000 divide by ₹104.98 — kareeb 95.3 aaj ke share-equivalent units.
+
+Har IT stock ek jaisa return nahi deta. Isi liye sirf sector ka naam sunke share select karna risky ho sakta hai.
+
+2025 ke end mein comparable share price lagbhag ₹263.28 thi. Ab 95.3 ko ₹263.28 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹25,079. Yaani price ke hisaab se ₹15,079 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
+
+Kya aap invest karte waqt ek company dekhte ho, ya multiple stocks compare karte ho?
+
+Stock compare aur research karne ke baad Trackk par apni choice ke shares mein invest bhi kar sakte ho."
