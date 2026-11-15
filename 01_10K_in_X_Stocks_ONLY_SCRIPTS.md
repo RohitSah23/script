@@ -1,161 +1,339 @@
-# ₹10K in X Stocks — 10 
+# Trackk — 10 Stock Investment Reel Scripts (V3)
+
+**Series:** ₹10K in X Stock — 1, 3 & 5 Years  
+**Language:** Conversational Hinglish  
+**Format:** Instagram Reels / YouTube Shorts  
+**Target duration:** Approximately 45–55 seconds each; verify with a spoken read-through  
+**Historical reference:** 13 November 2026, as stated in the original script batch
+
+> **Editorial/data note:** The investment values below are reproduced from the preceding script batch; they have **not been independently reverified for this file**. They are approximate illustrations based on reported percentage returns, not executable portfolio values. Before publication, verify prices and corporate-action adjustments with a reliable source. Dividends, taxes and fees are excluded. The ₹100 Trackk starting-investment claim should also be verified for applicable products.
 
 ---
 
-## 01. Reliance (2005–2025)
+## Script 1 — Bharti Airtel
 
-"Agar aaj se bees saal pehle Reliance mein ₹10,000 laga diye hote, toh ek bike ke paise bante ya usse bhi zyada?
+**Hook style:** Familiar brand  
+**Target duration:** ~50 seconds  
+**Historical values:** 1Y ₹10,025 | 3Y ₹22,168 | 5Y ₹28,554
 
-Maan lo tumne 2005 ke end mein Reliance mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹80.97 tha. Toh ₹10,000 divide by ₹80.97 — kareeb 123.5 aaj ke share-equivalent units.
+### Final Voiceover
 
-2008 mein market buri tarah gira tha. Us waqt portfolio dekhkar ghabrana bilkul normal hota.
+Aap Airtel ka recharge toh karwate honge. Lekin kabhi socha hai, agar recharge ke saath us company ke shares bhi khareede hote toh?
 
-2025 ke end mein comparable share price lagbhag ₹1,570.40 thi. Ab 123.5 ko ₹1,570.40 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹193,948. Yaani price ke hisaab se ₹183,948 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
+Baat ho rahi hai Bharti Airtel ki.
 
-Sach batao, itni girawat dekhkar tum hold kar paate?
+Agar ek saal pehle Airtel mein ₹10,000 invest kiye hote, toh aaj unki value lagbhag ₹10,025 hoti.
 
-Aaj khud shares mein invest karna chaho, toh company research karke Trackk app par invest bhi kar sakte ho."
+Lekin teen saal pehle? Wahi ₹10,000 ban jaate ₹22,168.
 
----
+Aur paanch saal pehle invest kiya hota, toh value hoti ₹28,554!
 
-## 02. TCS (2015–2025)
+Interesting hai na? Ek hi company, lekin alag time periods mein kitna difference.
 
-"2015 mein naya phone lene ke bajay ₹10,000 TCS mein laga diye hote toh?
+Lekin yaad rahe, past returns future ki guarantee nahi hote.
 
-Maan lo tumne 2015 ke end mein TCS mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹1,218.43 tha. Toh ₹10,000 divide by ₹1,218.43 — kareeb 8.2 aaj ke share-equivalent units.
-
-IT business ka naam sunke growth pakki nahi ho jaati. Beech ke saalon mein price upar bhi gaya aur neeche bhi.
-
-2025 ke end mein comparable share price lagbhag ₹3,206.20 thi. Ab 8.2 ko ₹3,206.20 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹26,314. Yaani price ke hisaab se ₹16,314 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
-
-Waise, aap already stocks mein invest karte ho, ya abhi seekh rahe ho?
-
-Shares explore karne ke liye Trackk par companies dekh sakte ho, aur apni research ke baad invest bhi kar sakte ho."
+Aur investing shuru karne ke liye ₹10,000 zaroori nahi. Trackk par aap ₹100 se apni investing journey start kar sakte ho!
 
 ---
 
-## 03. Infosys (2005–2015)
+## Script 2 — State Bank of India (SBI)
 
-"Socho, college ki fees ke alawa bache ₹10,000 Infosys mein 2005 mein laga diye hote—2015 tak kitna hota?
+**Hook style:** Guessing game  
+**Target duration:** ~50 seconds  
+**Historical values:** 1Y ₹11,159 | 3Y ₹18,471 | 5Y ₹21,321
 
-Maan lo tumne 2005 ke end mein Infosys mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹187.31 tha. Toh ₹10,000 divide by ₹187.31 — kareeb 53.4 aaj ke share-equivalent units.
+### Final Voiceover
 
-Yeh sirf IT company ki kahani nahi, dus saal tak decision ko na chhedne ki bhi kahani hai.
+Ek guess karo. SBI mein paanch saal pehle lagaye ₹10,000 aaj kitne hote?
 
-2015 ke end mein comparable share price lagbhag ₹552.70 thi. Ab 53.4 ko ₹552.70 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹29,507. Yaani price ke hisaab se ₹19,507 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
+₹12,000? ₹15,000? Ya ₹20,000?
 
-Tumhara investment horizon kya hai—ek saal, paanch saal ya das saal?
+Actually, lagbhag ₹21,321!
 
-Agar investing shuru karni hai toh pehle stock samjho; Trackk app par research aur shares mein investing dono kar sakte ho."
+Haan, State Bank of India, jahan crores of Indians ka bank account hai.
 
----
+Ab agar aapne teen saal pehle SBI ke shares khareede hote, toh ₹10,000 ki value hoti ₹18,471.
 
-## 04. HDFC Bank (2015–2025)
+Aur ek saal pehle invest kiya hota, toh ₹11,159.
 
-"₹10,000 ko 2015 mein HDFC Bank mein lagaya hota, toh 2025 mein bank balance kitna dikhta?
+Matlab paanch saal ke period mein investment double se bhi zyada hui.
 
-Maan lo tumne 2015 ke end mein HDFC Bank mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹270.54 tha. Toh ₹10,000 divide by ₹270.54 — kareeb 37.0 aaj ke share-equivalent units.
+Lekin ek important baat: bank mein paise deposit karna aur bank ke shares khareedna bilkul alag hai. Shares mein loss bhi ho sakta hai.
 
-Sirf bada bank hona return ki guarantee nahi. Share ki value economy aur company ke results ke saath badalti hai.
-
-2025 ke end mein comparable share price lagbhag ₹991.20 thi. Ab 37.0 ko ₹991.20 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹36,638. Yaani price ke hisaab se ₹26,638 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
-
-Kya aap banks ke shares mein invest karna pasand karoge?
-
-Trackk par stock details samajhkar apne decision se investment kar sakte ho."
+Aur Trackk par aap sirf ₹100 se apni investing journey shuru kar sakte ho!
 
 ---
 
-## 05. ICICI Bank (2005–2025)
+## Script 3 — Tata Consultancy Services (TCS)
 
-"2005 mein ICICI Bank ke naam par ₹10,000 invest karne ki himmat hoti?
+**Hook style:** Unexpected loss  
+**Target duration:** ~50 seconds  
+**Historical values:** 1Y ₹7,751 | 3Y ₹7,072 | 5Y ₹6,775
 
-Maan lo tumne 2005 ke end mein ICICI Bank mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹106.37 tha. Toh ₹10,000 divide by ₹106.37 — kareeb 94.0 aaj ke share-equivalent units.
+### Final Voiceover
 
-Beech mein financial crisis bhi aaya. Yaani final number bada lagta hai, par us tak ka safar bilkul smooth nahi tha.
+Tata jaisi badi company ke shares mein bhi aapke paise kam ho sakte hain?
 
-2025 ke end mein comparable share price lagbhag ₹1,342.90 thi. Ab 94.0 ko ₹1,342.90 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹126,248. Yaani price ke hisaab se ₹116,248 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
+TCS ka example dekh lo.
 
-Aise investment mein aapko sabse zyada darr kis baat ka lagta hai—loss ya galat timing?
+Tata Consultancy Services, India ki well-known IT companies mein se ek hai.
 
-Aaj stocks mein invest karna ho toh pehle research karo; Trackk par shares mein invest karne ka option bhi hai."
+Lekin agar aapne paanch saal pehle TCS mein ₹10,000 invest kiye hote, toh aaj unki value hoti sirf ₹6,775.
 
----
+Teen saal pehle invest kiya hota, toh ₹7,072.
 
-## 06. ITC (2015–2025)
+Aur ek saal pehle? ₹7,751.
 
-"ITC jaise familiar naam mein ₹10,000 lagate, toh das saal baad paisa double hota?
+Matlab teeno time periods mein investment ki value ghati!
 
-Maan lo tumne 2015 ke end mein ITC mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹206.73 tha. Toh ₹10,000 divide by ₹206.73 — kareeb 48.4 aaj ke share-equivalent units.
+Yahan interesting lesson ye hai ki achhi reputation wali company ka stock bhi zaroori nahi ki achha return de.
 
-Is company ke case mein ek aur cheez important hai—dividends. Aaj jo calculation kar rahe hain, usmein dividend income add nahi hai.
+Isliye sirf brand name dekhkar invest mat karo.
 
-2025 ke end mein comparable share price lagbhag ₹403.00 thi. Ab 48.4 ko ₹403.00 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹19,494. Yaani price ke hisaab se ₹9,494 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
-
-Aap price growth dekhte ho ya dividends bhi important lagte hain?
-
-Trackk par investing se pehle company ki details explore kar sakte ho, phir apna decision le sakte ho."
+Aur investing explore karni ho, toh Trackk par ₹100 se apni journey start kar sakte ho!
 
 ---
 
-## 07. Bharti Airtel (2015–2025)
+## Script 4 — ICICI Bank
 
-"2015 mein ₹10,000 ka naya smartphone liya hota, ya wahi paisa Airtel ke shares mein lagaya hota?
+**Hook style:** Character storytelling  
+**Target duration:** ~50 seconds  
+**Historical values:** 1Y ₹11,534 | 3Y ₹16,827 | 5Y ₹20,478  
+**Character note:** Aarav is fictional.
 
-Maan lo tumne 2015 ke end mein Bharti Airtel mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹312.55 tha. Toh ₹10,000 divide by ₹312.55 — kareeb 32.0 aaj ke share-equivalent units.
+### Final Voiceover
 
-Phone purana ho jaata, lekin stock investment ki kahani alag chalti. Haan, market mein girawat ka risk hamesha tha.
+2021 mein Aarav ne apni savings se ₹10,000 ICICI Bank ke shares mein invest kiye.
 
-2025 ke end mein comparable share price lagbhag ₹2,105.60 thi. Ab 32.0 ko ₹2,105.60 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹67,368. Yaani price ke hisaab se ₹57,368 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
+Usne socha, paise abhi use nahi karne, toh investment ko kuch saal hold kar leta hoon.
 
-Tumhare hisaab se phone zaroori hai ya long-term investing ke liye bhi budget hona chahiye?
+Ab agar Aarav ne November 2026 tak shares hold kiye hote, toh uske ₹10,000 ki value hoti lagbhag ₹20,478.
 
-Aaj se stock investing explore karni ho, toh Trackk app par shares khareedne ka option hai—research karna mat bhoolna."
+Lekin teen saal pehle invest kiya hota, toh ₹16,827.
 
----
+Aur sirf ek saal pehle? ₹11,534.
 
-## 08. Hindustan Unilever (2005–2015)
+Matlab same bank, same ₹10,000, lekin investment ke time se returns kaafi change ho gaye.
 
-"Roz shampoo aur soap khareedte ho. Kabhi socha inhe banane wali company mein ₹10,000 lagate toh kya hota?
+Haan, ye historical returns hain. Future mein profit milega, iski guarantee nahi.
 
-Maan lo tumne 2005 ke end mein Hindustan Unilever mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹193.98 tha. Toh ₹10,000 divide by ₹193.98 — kareeb 51.6 aaj ke share-equivalent units.
-
-Product hum roz dekhte hain, par company ka share lena aur product lena alag baat hai. Business, valuation aur risks sab dekhne padte hain.
-
-2015 ke end mein comparable share price lagbhag ₹848.66 thi. Ab 51.6 ko ₹848.66 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹43,750. Yaani price ke hisaab se ₹33,750 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
-
-Kya aap kisi aise brand mein invest karte ho jo khud roz use karte ho?
-
-Aise stocks ko Trackk par research karke, samajh aaye toh shares mein invest kar sakte ho."
+Aur investing journey start karne ke liye bada budget zaroori nahi. Trackk par ₹100 se shuru kar sakte ho!
 
 ---
 
-## 09. Larsen & Toubro (2005–2025)
+## Script 5 — HDFC Bank
 
-"Jo company bade bridges aur projects banati hai, usmein ₹10,000 lagate toh 20 saal baad kya banta?
+**Hook style:** Direct question  
+**Target duration:** ~50 seconds  
+**Historical values:** 1Y ₹8,124 | 3Y ₹10,689 | 5Y ₹10,326
 
-Maan lo tumne 2005 ke end mein Larsen & Toubro mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹205.02 tha. Toh ₹10,000 divide by ₹205.02 — kareeb 48.8 aaj ke share-equivalent units.
+### Final Voiceover
 
-Projects ko complete hone mein saal lagte hain. Shareholder ko bhi beech ke market crashes jhelne pad sakte hain.
+Kya kisi bade private bank ke shares khareedna matlab safe investment?
 
-2025 ke end mein comparable share price lagbhag ₹4,083.50 thi. Ab 48.8 ko ₹4,083.50 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹199,176. Yaani price ke hisaab se ₹189,176 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
+HDFC Bank ka example interesting hai.
 
-Kya tum ₹10,000 ko itne lambe time tak untouched rakh paate?
+Agar aapne paanch saal pehle HDFC Bank mein ₹10,000 invest kiye hote, toh aaj unki value hoti lagbhag ₹10,326.
 
-Trackk app par aisi companies ko research karna aur apne hisaab se shares mein invest karna possible hai."
+Teen saal pehle invest kiya hota, toh ₹10,689.
+
+Lekin sirf ek saal pehle invest kiya hota, toh ₹10,000 ghatkar ₹8,124 reh jaate.
+
+Yaani paanch saal mein halka profit, lekin pichhle ek saal mein loss.
+
+Isse ek baat clear hai: badi company hone se share price girne ka risk khatam nahi hota.
+
+Isliye investment se pehle research zaroori hai.
+
+Aur aap Trackk par sirf ₹100 se apni investing journey start kar sakte ho!
 
 ---
 
-## 10. Wipro (2015–2025)
+## Script 6 — Larsen & Toubro (L&T)
 
-"2015 mein Wipro mein ₹10,000 daalte, toh 2025 mein kya sach mein paisa bahut badhta?
+**Hook style:** Unexpected performer  
+**Target duration:** ~50 seconds  
+**Historical values:** 1Y ₹10,348 | 3Y ₹13,520 | 5Y ₹21,282
 
-Maan lo tumne 2015 ke end mein Wipro mein ₹10,000 invest kiye hote. Bonus aur split adjust karke ek share ka comparable rate lagbhag ₹104.98 tha. Toh ₹10,000 divide by ₹104.98 — kareeb 95.3 aaj ke share-equivalent units.
+### Final Voiceover
 
-Har IT stock ek jaisa return nahi deta. Isi liye sirf sector ka naam sunke share select karna risky ho sakta hai.
+Jab bhi investing ki baat hoti hai, log aksar IT companies ya banks ke baare mein sochte hain.
 
-2025 ke end mein comparable share price lagbhag ₹263.28 thi. Ab 95.3 ko ₹263.28 se multiply karo. Tumhare ₹10,000 ki value hoti kareeb ₹25,079. Yaani price ke hisaab se ₹15,079 ka profit! Yeh hypothetical price-only calculation hai; dividends aur charges include nahi hain.
+Lekin ek engineering company ka return bhi dekh lo.
 
-Kya aap invest karte waqt ek company dekhte ho, ya multiple stocks compare karte ho?
+Baat ho rahi hai Larsen & Toubro, yaani L&T ki, jo construction aur engineering projects ke liye jaani jaati hai.
 
-Stock compare aur research karne ke baad Trackk par apni choice ke shares mein invest bhi kar sakte ho."
+Agar aapne paanch saal pehle iske shares mein ₹10,000 invest kiye hote, toh aaj unki value hoti ₹21,282.
+
+Teen saal pehle invest kiya hota, toh ₹13,520.
+
+Aur ek saal pehle? ₹10,348.
+
+Yaani five-year period mein investment double se zyada hui, lekin recent one-year return kaafi chhota raha.
+
+Past growth future mein repeat ho, ye zaroori nahi.
+
+Aur Trackk par aap ₹100 se apni investing journey start kar sakte ho!
+
+---
+
+## Script 7 — Reliance Industries
+
+**Hook style:** Expectation vs reality  
+**Target duration:** ~50 seconds  
+**Historical values:** 1Y ₹8,820 | 3Y ₹11,370 | 5Y ₹11,449
+
+### Final Voiceover
+
+Reliance itni badi company hai, toh iske shares mein paise lagane se profit toh hota hi hoga?
+
+Zaroori nahi!
+
+Reliance Industries ke businesses retail, energy aur telecom jaise sectors mein hain.
+
+Lekin agar aapne ek saal pehle iske shares mein ₹10,000 invest kiye hote, toh aaj unki value hoti sirf ₹8,820.
+
+Matlab lagbhag ₹1,180 ka loss.
+
+Wahin teen saal pehle invest kiya hota, toh ₹11,370.
+
+Aur paanch saal pehle? ₹11,449.
+
+Yaani alag holding periods mein result kaafi different raha.
+
+Isliye company kitni badi hai, usse zyada important hai ki aap investment ko samajhkar decision lo.
+
+Aur Trackk par ₹100 se apni investing journey shuru kar sakte ho!
+
+---
+
+## Script 8 — Bajaj Finance
+
+**Hook style:** Timeline reveal  
+**Target duration:** ~50 seconds  
+**Historical values:** 1Y ₹10,967 | 3Y ₹15,462 | 5Y ₹14,826
+
+### Final Voiceover
+
+₹10,000 ki investment. Teen alag dates. Aur teen different results.
+
+Company hai Bajaj Finance, jo loans aur financial services provide karti hai.
+
+Agar aapne ek saal pehle iske shares mein ₹10,000 invest kiye hote, toh aaj unki value hoti ₹10,967.
+
+Teen saal pehle invest kiya hota, toh ₹15,462.
+
+Aur paanch saal pehle wahi ₹10,000 lagaye hote, toh value hoti ₹14,826.
+
+Ab interesting baat notice ki?
+
+Teen saal pehle ki investment, paanch saal pehle wali investment se zyada valuable hoti!
+
+Matlab share market mein zyada time invest karne se har baar zyada return mile, ye zaroori nahi.
+
+Aur investing start karne ke liye ₹10,000 ka wait kyun? Trackk par ₹100 se apni journey shuru kar sakte ho!
+
+---
+
+## Script 9 — Kotak Mahindra Bank
+
+**Hook style:** Missed opportunity  
+**Target duration:** ~50 seconds  
+**Historical values:** 1Y ₹11,746 | 3Y ₹13,805 | 5Y ₹11,647
+
+### Final Voiceover
+
+Kaash Kotak Mahindra Bank ke shares paanch saal pehle khareed liye hote!
+
+Lekin ek minute... kya paanch saal pehle invest karna actually best decision hota?
+
+Returns dekhte hain.
+
+Agar aapne paanch saal pehle ₹10,000 invest kiye hote, toh aaj unki value hoti ₹11,647.
+
+Teen saal pehle wahi ₹10,000 lagaye hote, toh value hoti ₹13,805.
+
+Aur sirf ek saal pehle invest kiya hota, toh ₹11,746.
+
+Yaani is comparison mein teen saal wali investment ka return sabse zyada raha.
+
+Interesting hai na? Sirf investment kitni purani hai, isse poori story samajh nahi aati.
+
+Aur past returns future mein repeat honge, ye guaranteed nahi hai.
+
+Trackk par aap ₹100 se apni investing journey shuru kar sakte ho!
+
+---
+
+## Script 10 — Hindustan Unilever (HUL)
+
+**Hook style:** Everyday products  
+**Target duration:** ~50 seconds  
+**Historical values:** 1Y ₹8,209 | 3Y ₹8,015 | 5Y ₹8,219
+
+### Final Voiceover
+
+Aapke ghar mein Lifebuoy, Dove ya Surf Excel use hota hai?
+
+Ye brands Hindustan Unilever ke hain.
+
+Ab socho, itni familiar company ke shares mein agar ₹10,000 invest kiye hote, toh kya hota?
+
+Paanch saal pehle invest kiya hota, toh aaj unki value hoti lagbhag ₹8,219.
+
+Teen saal pehle lagaye hote, toh ₹8,015.
+
+Aur ek saal pehle invest kiya hota, toh ₹8,209.
+
+Matlab teeno time periods mein investment ki value ghati.
+
+Yahan samajhne wali baat ye hai ki kisi company ke products popular hone ka matlab ye nahi ki uske shares hamesha profit denge.
+
+Isliye investment se pehle research aur risk samajhna zaroori hai.
+
+Aur Trackk par ₹100 se apni investing journey start kar sakte ho!
+
+---
+
+# Master Data Sheet — All 10 Scripts
+
+| Stock | 1 Year | 3 Years | 5 Years |
+|---|---:|---:|---:|
+| Bharti Airtel | ₹10,025 | ₹22,168 | ₹28,554 |
+| SBI | ₹11,159 | ₹18,471 | ₹21,321 |
+| TCS | ₹7,751 | ₹7,072 | ₹6,775 |
+| ICICI Bank | ₹11,534 | ₹16,827 | ₹20,478 |
+| HDFC Bank | ₹8,124 | ₹10,689 | ₹10,326 |
+| L&T | ₹10,348 | ₹13,520 | ₹21,282 |
+| Reliance | ₹8,820 | ₹11,370 | ₹11,449 |
+| Bajaj Finance | ₹10,967 | ₹15,462 | ₹14,826 |
+| Kotak Mahindra Bank | ₹11,746 | ₹13,805 | ₹11,647 |
+| HUL | ₹8,209 | ₹8,015 | ₹8,219 |
+
+**Original batch's cited data source:** [INDmoney — Stocks to Buy](https://www.indmoney.com/share-market-today/stocks-to-buy). This is a source reference from the previous response, not a fresh verification of each historical series.
+
+# Standard Production Disclaimer
+
+**On-screen:**
+
+> For educational purposes only. Not investment advice. Past performance does not guarantee future returns. Investments in securities markets are subject to market risks. Historical values are approximate and exclude dividends, taxes and fees.
+
+**Production / caption notes:**
+
+- Recheck historical return inputs against original dated prices prior to release, including split/bonus treatment.
+- Confirm calculations and whether the prices/returns include dividends.
+- Confirm the Trackk ₹100 starting-investment claim for supported products; do not imply any named share can be purchased for ₹100.
+- Obtain compliance review for applicable SEBI/ASCI financial-promotion disclosures.
+- The script durations are estimates; read or record each voiceover and trim where required.
+
+# V3 Production Checklist
+
+- [ ] Distinct hook style for this reel
+- [ ] Hook and company intro flow together
+- [ ] All three investment values verified
+- [ ] One clear takeaway, without misleading investment advice
+- [ ] Natural Hinglish read-through within 60 seconds
+- [ ] Contextual spoken risk qualification
+- [ ] Readable on-screen disclaimer
+- [ ] Natural Trackk ₹100 investing-journey CTA
+- [ ] Final brand and compliance approval
